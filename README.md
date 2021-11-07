@@ -12,7 +12,7 @@
 
 ### Spring Eureka Instances
 
-![eureka-instances-images](http://url/to/img.png)
+![eureka-instances-images](https://github.com/CodeMechanix/SpringBoot-Microservice-In-Action/blob/main/images/img.png)
 
 
 ### Functionalities That's Implemented
