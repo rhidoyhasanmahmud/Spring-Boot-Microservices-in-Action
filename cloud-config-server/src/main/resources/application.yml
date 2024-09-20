@@ -10,6 +10,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/CodeMechanix/config-server
+          uri: https://github.com/rhidoyhasanmahmud/config-server
           clone-on-start: true
 
